@@ -1,1 +1,17 @@
 INSERT INTO CONFIGURATION (PROPIEDAD, VALOR) VALUES ('1', 'Valor 1');
+
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (1, "B", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (2, "C", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (3, "B", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (4, "B", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (5, "C", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (6, "C", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (7, "A", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (8, "D", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (9, "A", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (10, "B", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (11, "A", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (12, "D", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (13, "B", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (14, "B", ".")
+INSERT INTO MANUEL_SUAREZ (pregunta, respuesta, argumento) VALUES (15, "C", ".")
